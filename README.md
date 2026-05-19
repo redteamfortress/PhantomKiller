@@ -53,4 +53,4 @@ this project is for **educational and authorized security research purposes only
 
 ## author
 
-**j3h4ck** — [@j3h4ck](https://twitter.com/j3h4ck) | [linkedin](https://www.linkedin.com/in/jehadabudagga/) | [medium](https://medium.com/@jehadabudagga)
+**j3h4ck** — [@j3h4ck](https://twitter.com/j3h4ck) | [linkedin](https://www.linkedin.com/in/jehadabudagga/) | [medium](https://medium.com/@jehadbudagga)
